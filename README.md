@@ -4,7 +4,10 @@
 ### Technologies of the full project
 
 1 - Android Kotlin
+
 2 - Apple Swift
+
 3 - Backend Rust
+
 4 - Bitcoin payment via BTCPay Server
 
